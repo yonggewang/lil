@@ -6,7 +6,7 @@ This site is dedicated for techniques, software package, and reports of statisti
 
 # How to:
 
-1. liltest: this is an Netbean project folder. Import the project into Netbean and follow the instructions
+1. LILtest: this is an Netbean project folder. Import the project into Netbean and follow the instructions
 2. compiled_liltest: alternatively, you can download this compiled .jar file and follow the instructions in the README.TXT
 
 # Documentation
