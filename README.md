@@ -6,7 +6,8 @@ This site is dedicated for techniques, software package, and reports of statisti
 
 # How to:
 
-this is the Netbean project folder. Import the project into Netbean and follow the instructions
+1. liltest: this is an Netbean project folder. Import the project into Netbean and follow the instructions
+2. compiled_liltest: alternatively, you can download this compiled .jar file and follow the instructions in the README.TXT
 
 # Documentation
 1. The idea of LIL testing was first proposed in the paper: Yongge Wang: Linear complexity versus pseudorandomness: on Beth and Dai's result. In: Proc. Asiacrypt 99, pages 288--298. LNCS 1716, Springer Verlag. <https://webpages.uncc.edu/yonwang/papers/acrypt991.pdf>
